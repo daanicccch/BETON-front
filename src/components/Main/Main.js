@@ -1,6 +1,5 @@
 import React, { useState, useEffect } from 'react';
 import Header from '../Header/Header';
-import Footer from '../Footer/Footer';
 import { MainContainer } from './Main.styles';
 import { getUserBalance, startGameSession } from '../../services/userService'; // Импортируем startGameSession
 

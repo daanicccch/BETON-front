@@ -1,5 +1,3 @@
-import axios from 'axios'; 
-
 const serverUrl = 'http://localhost:5173';
 
 // Функция для извлечения chatId из initData
